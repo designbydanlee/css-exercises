@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: hsl(355, 85%, 85%);
+    font-family: verdana, "Dejavu sans", sans-serif;
+}
+
+#second {
+    color: hsl(250, 85%, 25%);
+    font-size: 36px;
+}
+
+.large-number {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(150, 85%, 55%);
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
